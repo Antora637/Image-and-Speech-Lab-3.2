@@ -1,3 +1,12 @@
+# Write a MATLAB/Python program to recognize speech signal
+
+# Install required packages:
+# pip install SpeechRecognition
+# pip install pydub  # Optional, for some audio formats
+
+# python -m pip install SpeechRecognition
+
+
 import speech_recognition as sr
 
 # Create recognizer object

@@ -1,3 +1,6 @@
+# Write a MATLAB/Python program to read coins.png, leveling all coins and 
+# display area of all coins.
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt

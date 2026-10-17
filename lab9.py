@@ -1,3 +1,6 @@
+# Display following image operation in MATLAB/Python - i) Threshold 
+# image ii) Power enhance contract image iii) High pass image. 
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt

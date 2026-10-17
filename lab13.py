@@ -1,3 +1,6 @@
+# Write a MATLAB/Python program and plot multilevel speech resolution.
+
+# python -m pip install numpy matplotlib PyWavelets scipy
 
 import numpy as np
 import matplotlib.pyplot as plt
