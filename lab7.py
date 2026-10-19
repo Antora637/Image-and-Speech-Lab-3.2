@@ -67,7 +67,7 @@ canny = cv2.Canny(image, 100, 200)
 # ---------------------------------------
 # 6. Display and Compare
 # ---------------------------------------
-plt.figure(figsize=(12, 10))
+plt.figure(figsize=(12, 8))
 
 plt.subplot(2, 3, 1)
 plt.imshow(image, cmap="gray")
